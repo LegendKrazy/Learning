@@ -1,0 +1,18 @@
+* (margin: 0; padding: 0;)
+/*to remove the scrollers*/
+#canvas {display: block;}
+
+h2 { 
+   position: absolute; 
+   top: 200px;
+   left: 30px; 
+   width: 100%;
+  color: white;
+}
+h3 { 
+   position: absolute; 
+   top: 230px; 
+   left: 90px; 
+   width: 100%;
+  color: white;
+}
